@@ -1,3 +1,6 @@
+
+# This is the converted py file from ui file
+
 # -*- coding: utf-8 -*-
 
 # Form implementation generated from reading ui file 'C:\pyqt5\test\testgui.ui'
